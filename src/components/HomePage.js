@@ -45,7 +45,7 @@ const HomePage = () => {
       render: (_, record) => (
         <div>
           {record.menu && record.menu.map((item, index) => (
-            <div key={index}>{item.name}: ${item.price}</div>
+            <div key={index}>{item.name}: {item.price} ₹</div>
           ))}
         </div>
       ),
