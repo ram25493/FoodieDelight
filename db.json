@@ -1,0 +1,101 @@
+{
+  "restaurants": [
+    {
+      "name": "Restaurant 11",
+      "description": "Desc1",
+      "location": "Location 11",
+      "menu": [
+        {
+          "name": "qqq",
+          "price": 4
+        },
+        {
+          "name": "www",
+          "price": 4
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "name": "ads",
+      "description": "eeee",
+      "location": "asd",
+      "menu": [
+        {
+          "id": 1725454953941,
+          "name": "asd",
+          "price": 4
+        }
+      ],
+      "id": "c36a"
+    },
+    {
+      "id": "3c2a",
+      "name": "asd",
+      "location": "dfs",
+      "imageUrl": "",
+      "menu": [
+        {
+          "id": 1725455488020,
+          "name": "sdfdas",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "name": "asdddd",
+      "description": "asdasdasd",
+      "location": "asf",
+      "menu": [
+        {
+          "id": 1725455502940,
+          "name": "asfd",
+          "price": 0
+        }
+      ],
+      "id": "7f9c"
+    },
+    {
+      "id": "9ce6",
+      "name": "asdasd",
+      "location": "asdfasdasd",
+      "imageUrl": "",
+      "menu": [
+        {
+          "id": 1725455516099,
+          "name": "fdsfdf",
+          "price": 23
+        }
+      ]
+    },
+    {
+      "name": "yyy",
+      "location": "Pune",
+      "imageUrl": "",
+      "menu": [
+        {
+          "id": 1725455537660,
+          "name": "daal",
+          "price": 1
+        }
+      ],
+      "id": "2221"
+    },
+    {
+      "name": "vvv",
+      "description": "vvv",
+      "location": "vvv",
+      "menu": [
+        {
+          "name": "vvv",
+          "price": 12
+        },
+        {
+          "name": "wer",
+          "price": 13
+        }
+      ],
+      "id": "add3"
+    }
+  ]
+}
